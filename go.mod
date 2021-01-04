@@ -6,7 +6,9 @@ require (
 	github.com/golang/snappy v0.0.0-20170215233205-553a64147049
 	github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/stretchr/testify v1.3.0 // indirect
+	github.com/pborman/uuid v1.2.1
+	github.com/stretchr/testify v1.6.1
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	gopkg.in/inf.v0 v0.9.1
 )
 
